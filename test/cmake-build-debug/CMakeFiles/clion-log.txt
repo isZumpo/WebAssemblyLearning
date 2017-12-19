@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Hampus\Desktop\webassembly\test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Hampus/Desktop/webassembly/test/cmake-build-debug

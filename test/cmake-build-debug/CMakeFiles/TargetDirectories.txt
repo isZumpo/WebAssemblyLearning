@@ -1,0 +1,3 @@
+C:/Users/Hampus/Desktop/webassembly/test/cmake-build-debug/CMakeFiles/example.dir
+C:/Users/Hampus/Desktop/webassembly/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hampus/Desktop/webassembly/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
